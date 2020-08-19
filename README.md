@@ -1,2 +1,2 @@
 # rdm
-Remote Device Management related ommon files
+Remote Device Management related common files
